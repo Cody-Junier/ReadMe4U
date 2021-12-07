@@ -763,7 +763,9 @@ ${data.test}\n
 ${renderLicenseSection(data.license)}\n
 ${renderLicenseLink(data.license)}\n
 ## Questions/Contact\n
-${data.username}, ${data.email}
+Find me on GitHub at <https://github.com/${data.username}> and take a look at my current and past projects.
+If you have any questions about this projcet, please send an email with the subject line ${data.title} to my email address at:
+${data.email}
 `;
 }
 
