@@ -6,10 +6,10 @@ const generateMarkdown = require('./utils/generateMarkdown')
 const questions = [
     {
         type:'input',
-        name:'project',
+        name:'title',
         message:'What is the name of your project? (Required)',
-        validate: nameInput => {
-            if (nameInput){
+        validate: titleInput => {
+            if (titleInput){
                 return true;
             }else{
                 console.log('Please enter your project name.');
@@ -60,7 +60,7 @@ const questions = [
         message:'Please provide an example on how to run your project.'
     },
     {
-        type:'checkbox',
+        type:'list',
         name:'license',
         message:'Please choose a license:',
         choices: [
