@@ -747,22 +747,22 @@ ${data.description}
 ### Table of Contents:
 - [Installation](#Installation)
 - [Usage](#Usage)
-- [Credits](#Credits)
-- [Test](#Test)
+- [Contributing](#Credits)
+- [Tests](#Test)
 - [License](#License)
-- [Contact](#Contact)\n
+- [Questions/Contact](#Contact)\n
 ## Installation\n
 ${data.installation}\n
 ## Usage\n
 ${data.usage}\n
-## Credits\n
+## Contributing\n
 ${data.credits}\n
-## Test\n
+## Tests\n
 ${data.test}\n
 ## License\n
 ${renderLicenseSection(data.license)}\n
 ${renderLicenseLink(data.license)}\n
-## Contact\n
+## Questions/Contact\n
 ${data.username}, ${data.email}
 `;
 }
