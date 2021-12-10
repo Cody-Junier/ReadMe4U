@@ -67,6 +67,7 @@ const questions = [
 			{name: 'MIT'},
 			{name: 'GNU'},
 			{name: 'ISC'},
+            {name: 'none'}
 		],
         validate: licenseInput => {
             if (licenseInput){
