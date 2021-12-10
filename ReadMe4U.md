@@ -7,7 +7,7 @@ wr
 - [Usage](#usage)
 - [Contributing](#credits)
 - [Tests](#test)
-- [Questions/Contact](#questions/Contact)
+- [Questions](#questions)
 - [License](#license)
 
 ## Installation
