@@ -26,7 +26,7 @@ rw
 
 ar
 
-## Questions/Contact
+## Questions
 
 Find me on GitHub at <https://github.com/a> and take a look at my current and past projects.
 If you have any questions about this projcet, please send an email with the subject line war to my email address at:
