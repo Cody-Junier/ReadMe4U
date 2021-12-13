@@ -1,7 +1,7 @@
-# war
+# READMe4U
  Licensed under : [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## Description
-wr
+The purpose of this app is to dynamically generate a README.md file given user input via command line interface.
 ### Table of Contents:
 - [Installation](#installation)
 - [Usage](#usage)
@@ -12,25 +12,25 @@ wr
 
 ## Installation
 
-awr
+To install this project, please download all files, as well as inquirer via  Node.JS. Once installed, simply run the command "node index.js" and answer all prompts.
 
 ## Usage
 
-aw
+As an example, this README.md file was generated using this program!
 
 ## Contributing
 
-rw
+My Dog, Shirley.
 
 ## Tests
 
-ar
+
 
 ## Questions
 
-Find me on GitHub at <https://github.com/a> and take a look at my current and past projects.
-If you have any questions about this projcet, please send an email with the subject line war to my email address at:
-warw 
+Find me on GitHub at <https://github.com/cody-junier> and take a look at my current and past projects.
+If you have any questions about this projcet, please send an email with the subject line READMe4U to my email address at:
+codyjunier@gmail.com 
 
 ## License
 
