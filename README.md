@@ -4,6 +4,8 @@ The purpose of this app is to dynamically generate a README.md file given user i
 ![screenshot of CLI](assets/imgs/Screenshot.png)
 
 Please view ReadMe4U.md for more information + instructions for use.
+Sample Video: https://watch.screencastify.com/v/kAI3dHx3157FqHXY8nGj
+
 
 Copyright <2021> <Cody Junier>
 
